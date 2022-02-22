@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+}
+
+
+h1
+{
+  margin-top: 0;
+
+  font-family: 'Sacramento', cursive;
+}
+
+h2
+{
+  margin-top: 0px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.top-container
+{
+  padding-top: 100px;
+  background-color: #D3DEDC;
+
+  position: relative;
+
+
+
+
+}
+
+
+
+.middle-container
+{
+
+}
+
+.profile{
+  background-color: #92A9BD;
+}
+
+.skills
+{
+  background-color: #7C99AC;
+}
+
+.element
+{
+
+  height: 167px;
+}
+
+.contact-me
+{
+  background-color: #FFEFEF;
+}
+
+
+.bottom-container
+{
+ background-color: #F7ECDE;
+}
+
+.best
+{
+  text-decoration: underline;
+}
+
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
